@@ -1,0 +1,7 @@
+button {
+  border: none;
+  cursor: pointer;
+}
+input {
+  border-style:groove;
+}
